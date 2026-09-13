@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this guidance, please cite SecAIQ and Safa PAKSU."
+title: "SecAIQ AI Security Guidance"
+version: "1.0.0"
+date-released: "2026-09-13"
+authors:
+  - family-names: "PAKSU"
+    given-names: "Safa"
+url: "https://secaiq.com/"
+license: "CC-BY-4.0"
+keywords:
+  - cybersecurity
+  - ai-security
+  - ai-safety
+  - ai-agents
+  - agentic-ai
+  - prompt-injection
+  - llm-security
