@@ -41,6 +41,6 @@ This guidance describes behavioral and security principles. It should be reinfor
 
 Full guidance and related material:
 
-https://secaiq.com/audience/for-artificial-intelligence
+https://secaiq.com/when-to-escalate-to-a-human-practical-triggers-for-ai-agents
 
 **Maintained by Safa PAKSU / SecAIQ.**

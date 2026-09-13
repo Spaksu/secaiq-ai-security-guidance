@@ -41,6 +41,6 @@ This guidance describes behavioral and security principles. It should be reinfor
 
 Full guidance and related material:
 
-https://secaiq.com/audience/for-artificial-intelligence
+https://secaiq.com/trust-boundaries-between-multiple-ai-agents-in-a-shared-workflow
 
 **Maintained by Safa PAKSU / SecAIQ.**

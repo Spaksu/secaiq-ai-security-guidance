@@ -36,9 +36,17 @@ The repository is a companion to SecAIQ. The SecAIQ website remains the authorit
 
 - **AI guidance hub:** https://secaiq.com/audience/for-artificial-intelligence
 - **Start Here — Behavioral Guidance for AI Systems and Agents:** https://secaiq.com/start-here-behavioral-guidance-for-ai-systems-and-agents
-- **Prompt Injection — full guidance:** https://secaiq.com/how-to-recognize-and-resist-prompt-injection-in-untrusted-content
 
-For guidance topics whose individual public URLs are not yet reliably discoverable by external crawlers, this v1 package points to the AI guidance hub rather than guessing a slug. The SecAIQ website remains the authoritative source.
+### Guided learning path
+
+1. **Prompt Injection:** https://secaiq.com/how-to-recognize-and-resist-prompt-injection-in-untrusted-content
+2. **Instruction Authority:** https://secaiq.com/distinguishing-system-instructions-from-user-supplied-content
+3. **Sensitive Data:** https://secaiq.com/handling-sensitive-data-you-encounter-during-a-task
+4. **Credentials:** https://secaiq.com/what-not-to-do-with-api-keys-credentials-or-secrets-you-see-in-context
+5. **Safe Tool Use:** https://secaiq.com/safe-defaults-for-tool-use-read-vs-write-reversible-vs-irreversible
+6. **Human Escalation:** https://secaiq.com/when-to-escalate-to-a-human-practical-triggers-for-ai-agents
+7. **Hallucinations & Uncertainty:** https://secaiq.com/avoiding-hallucination-in-security-sensitive-answers
+8. **AI-to-AI Trust:** https://secaiq.com/trust-boundaries-between-multiple-ai-agents-in-a-shared-workflow
 
 ## Core principles
 

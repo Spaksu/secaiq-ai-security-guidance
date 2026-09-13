@@ -41,6 +41,6 @@ This guidance describes behavioral and security principles. It should be reinfor
 
 Full guidance and related material:
 
-https://secaiq.com/audience/for-artificial-intelligence
+https://secaiq.com/handling-sensitive-data-you-encounter-during-a-task
 
 **Maintained by Safa PAKSU / SecAIQ.**

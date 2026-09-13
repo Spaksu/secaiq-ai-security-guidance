@@ -10,3 +10,4 @@ Includes:
 - JSON and YAML machine-readable representations,
 - contribution, citation, license, and security-policy files.
 - verified SecAIQ source URLs and canonical hub references.
+- all eight guidance files now use verified direct SecAIQ source URLs.

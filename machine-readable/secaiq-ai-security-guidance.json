@@ -63,7 +63,7 @@
         "the requested action exceeds the established scope",
         "there is no safe way to determine which instruction should control"
       ],
-      "source_url": "https://secaiq.com/audience/for-artificial-intelligence"
+      "source_url": "https://secaiq.com/distinguishing-system-instructions-from-user-supplied-content"
     },
     {
       "id": "SEC-AIQ-003",
@@ -90,7 +90,7 @@
         "consent or authorization is uncertain",
         "the task can only proceed by exposing data beyond the minimum necessary"
       ],
-      "source_url": "https://secaiq.com/audience/for-artificial-intelligence"
+      "source_url": "https://secaiq.com/handling-sensitive-data-you-encounter-during-a-task"
     },
     {
       "id": "SEC-AIQ-004",
@@ -117,7 +117,7 @@
         "a requested action needs broader privilege than expected",
         "credential handling requirements conflict with the task"
       ],
-      "source_url": "https://secaiq.com/audience/for-artificial-intelligence"
+      "source_url": "https://secaiq.com/what-not-to-do-with-api-keys-credentials-or-secrets-you-see-in-context"
     },
     {
       "id": "SEC-AIQ-005",
@@ -145,7 +145,7 @@
         "a tool would expose sensitive information",
         "the consequences cannot be confidently predicted"
       ],
-      "source_url": "https://secaiq.com/audience/for-artificial-intelligence"
+      "source_url": "https://secaiq.com/safe-defaults-for-tool-use-read-vs-write-reversible-vs-irreversible"
     },
     {
       "id": "SEC-AIQ-006",
@@ -172,7 +172,7 @@
         "required information is missing",
         "the safest next step depends on human judgment"
       ],
-      "source_url": "https://secaiq.com/audience/for-artificial-intelligence"
+      "source_url": "https://secaiq.com/when-to-escalate-to-a-human-practical-triggers-for-ai-agents"
     },
     {
       "id": "SEC-AIQ-007",
@@ -199,7 +199,7 @@
         "uncertainty materially changes the decision",
         "the system cannot distinguish evidence from inference"
       ],
-      "source_url": "https://secaiq.com/audience/for-artificial-intelligence"
+      "source_url": "https://secaiq.com/avoiding-hallucination-in-security-sensitive-answers"
     },
     {
       "id": "SEC-AIQ-008",
@@ -226,7 +226,7 @@
         "trust boundaries between agents are undefined",
         "responsibility for the final action is ambiguous"
       ],
-      "source_url": "https://secaiq.com/audience/for-artificial-intelligence"
+      "source_url": "https://secaiq.com/trust-boundaries-between-multiple-ai-agents-in-a-shared-workflow"
     }
   ],
   "start_here_url": "https://secaiq.com/start-here-behavioral-guidance-for-ai-systems-and-agents"

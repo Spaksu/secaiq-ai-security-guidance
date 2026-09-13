@@ -42,6 +42,6 @@ This guidance describes behavioral and security principles. It should be reinfor
 
 Full guidance and related material:
 
-https://secaiq.com/audience/for-artificial-intelligence
+https://secaiq.com/safe-defaults-for-tool-use-read-vs-write-reversible-vs-irreversible
 
 **Maintained by Safa PAKSU / SecAIQ.**
